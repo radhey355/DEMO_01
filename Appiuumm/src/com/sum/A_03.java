@@ -14,7 +14,7 @@ public class A_03 {
 		int d=25;
 		System.out.println("c+d");
 		System.out.println("not YET..");
-		System.out.println("123456");
+		System.out.println("1234567");
 				
 		
 	}
