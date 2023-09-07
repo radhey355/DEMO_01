@@ -8,6 +8,14 @@ public class A {
 		int b=20;
 		System.out.println(a+b);
 		
+		System.out.println("=======");
+		
+		int c=20;
+		int d=25;
+		System.out.println("c+d");
+		System.out.println("c+a");
+				
+		
 	}
 
 }
