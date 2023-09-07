@@ -6,6 +6,7 @@ public class B {
 		
 		int b=120;
 		System.out.println(b);
+		System.out.println("ram jii...");
 
 	}
 
