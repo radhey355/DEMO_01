@@ -1,6 +1,6 @@
 package com.sum;
 
-public class A_01 {
+public class A_03 {
 
 	public static void main(String[] args) {
 		
